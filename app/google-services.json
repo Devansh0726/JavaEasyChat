@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738503693051",
+    "project_id": "javaeasychat",
+    "storage_bucket": "javaeasychat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738503693051:android:41507bce07ca8a0dfb165e",
+        "android_client_info": {
+          "package_name": "com.example.javaeasychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMkdKpC4HZY0de1OuvVtQFPhVf0Z38Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
